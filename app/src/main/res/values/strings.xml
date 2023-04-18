@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantsHandBook</string>
+    <string name="add_plant">ADD PLANT</string>
+    <string name="next_im">Next Image</string>
+</resources>
